@@ -1,0 +1,50 @@
+							
+			FAUTEBALL WORLD CUP SIMULATOR
+
+What is it?
+-----------
+
+	A software designed to manage the teams in Fauteball World Cup 2018,
+as a better alternative to the previous software proposed by the SIPolytech SARL
+students. This solution lacked an on object-oriented approach and because of this,
+code maintenability was almost impossible. Also, lots of hardcoded values turned
+it into a very adhoc solution, which makes it almost useless for managing different
+matches and groups.
+	We propose an object-oriented and easy to maintain software, with support
+to data reading from a plaintext file that makes the task of data management far
+easier, 
+
+How to run it?
+--------------
+
+
+How do I create a textfile with teams informations?
+---------------------------------------------------
+
+Who is this code's author?
+--------------------------
+
+GROUP #groupname
+	TEAM #team_A
+	       DOCTOR -name #name -fname #first_name -id #id -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       MANAGER -name #name -fname #first_name -id #id -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       STRENGTH #nStrength
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       GOALKEEPER #id
+	ENDTEAM
+ENDGROUP
+GROUP #groupname
+	TEAM #team_B
+	       DOCTOR -name #name -fname #first_name -id #id -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       MANAGER -name #name -fname #first_name -id #id -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       STRENGTH #nStrength
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       GOALKEEPER #id
+	ENDTEAM
+ENDGROUP

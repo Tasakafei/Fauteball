@@ -1,0 +1,28 @@
+
+
+
+
+GROUP #groupname
+	TEAM #team_A
+	       DOCTOR -name #name -fname #first_name -id #id -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       MANAGER -name #name -fname #first_name -id #id -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       STRENGTH #nStrength
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       GOALKEEPER #id
+	ENDTEAM
+ENDGROUP
+GROUP #groupname
+	TEAM #team_A
+	       DOCTOR -name #name -fname #first_name -id #id -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       MANAGER -name #name -fname #first_name -id #id -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       STRENGTH #nStrength
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       PLAYER -name #name -fname #first_name -id #id -number #n -starter #value -dbirt #dob -mbirt #mob -ybirt #yob -pnum #phone_number
+	       GOALKEEPER #id
+	ENDTEAM
+ENDGROUP
